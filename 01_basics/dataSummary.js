@@ -1,5 +1,5 @@
 //primitive
-// 7 tyoes: String, Number, Boolean, Null, undefined, Symbol, BigInt
+// 7 types: String, Number, Boolean, Null, undefined, Symbol, BigInt
 
 const score = 100 
 
