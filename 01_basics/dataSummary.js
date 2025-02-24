@@ -15,4 +15,8 @@ const myFunction= function(){
     console.log("Hello World");
 }
 
-    
+ //*****************************************************  
+
+ // stack(Primitive), Heap(Non-Primitive)
+
+ let myYoutubeName =
