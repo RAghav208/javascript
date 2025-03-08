@@ -19,4 +19,22 @@ const myFunction= function(){
 
  // stack(Primitive), Heap(Non-Primitive)
 
- let myYoutubeName =
+ let myYoutubeName ="RaghavKejriwal";
+
+ let anotherName = myYoutubeName;
+//  anotherName="chaiaurcode"
+
+//  console.log(anotherName);
+//  console.log(anotherName);
+let userOne ={
+    email: "user@google.com",
+    upi: "raghav@ybl"
+}
+ 
+let userTwo = userOne;
+// console.log(userTwo);
+
+userTwo.email = "raghav@google.com"
+
+console.log(userOne.email);
+console.log(userTwo.email);
